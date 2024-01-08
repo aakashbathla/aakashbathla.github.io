@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Students Friendly",
+        "description": "Hassle free and easy to use interface for students.",
+        "icon": "mdi-xml"
+    },
+    {
+        "title": "Mock Test Papers",
+        "description": "Get access to mock test papers for your exam preparation.",
+        "icon": "mdi-file-document-edit-outline"
+    },
+    {
+        "title": "Comments and Feedback",
+        "description": "Ask questions and get answers from other students and teachers."
+    }
+]

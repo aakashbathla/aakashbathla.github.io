@@ -1,0 +1,43 @@
+/**
+* Custom Styles here.
+*
+* ref：https://v1.vuepress.vuejs.org/config/#index-styl
+*/
+@import '~prismjs/themes/prism.css'
+@import url('http://fonts.cdnfonts.com/css/dubai');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,500&family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+
+html {
+min-height: 100vh;
+}
+
+body{
+font-family: 'Dubai', sans-serif !important 
+}
+
+body, #app, .theme-container {
+min-height: inherit;
+}
+
+.home .hero img
+max-width 450px!important
+
+div.theme-default-content:not(.custom) {
+max-width: 100%;
+}
+div.page-nav {
+max-width: 100%;
+}
+
+.v-application--wrap {
+min-height: fit-content;
+}
+
+.sidebar-group.is-sub-group > .sidebar-heading:not(.clickable) {
+opacity: 1 !important;
+}
+
+.sidebar-group:not(.collapsable) .sidebar-heading:not(.clickable) {
+cursor: pointer !important; 
+color: unset !important;
+}

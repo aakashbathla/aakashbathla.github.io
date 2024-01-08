@@ -1,0 +1,14 @@
+[
+  { "title": "9th Science", "icon": "mdi-book" },
+  { "title": "10th Science", "icon": "mdi-book" },
+  { "title": "11th Physcis", "icon": "mdi-book" },
+  { "title": "11th Chemistry", "icon": "mdi-book" },
+  { "title": "11th Math", "icon": "mdi-book" },
+  { "title": "11th Accounts", "icon": "mdi-book" },
+  { "title": "11th Economics", "icon": "mdi-book" },
+  { "title": "12th Physcis", "icon": "mdi-book" },
+  { "title": "12th Chemistry", "icon": "mdi-book" },
+  { "title": "12th Math", "icon": "mdi-book" },
+  { "title": "12th Accounts", "icon": "mdi-book" },
+  { "title": "12th Economics", "icon": "mdi-book" }
+]
